@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# xcodegen output
+*.xcodeproj
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
